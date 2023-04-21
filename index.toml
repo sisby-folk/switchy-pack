@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "4dfeb4a7f9ba351ce1cac51a97693b317ce26f0dcf9ba89e9f2ed96cd5472f57"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.pw.toml"
+hash = "70da594f4eadb175c7eedd58ec67caeffb71ac5fc8c503fcddf04e545e78e590"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
+metafile = true
+
+[[files]]
+file = "mods/switchy-inventories.pw.toml"
+hash = "35b41ccacb7ec4549053eebf89936d5077cb114de427c8857b9f0d95cfd33559"
+metafile = true
+
+[[files]]
+file = "mods/switchy-proxy.pw.toml"
+hash = "2c6c8c3e843a7f1df2f4a1ea4b0ed2f63a623ac6329feba063b112241a4b6c48"
+metafile = true
+
+[[files]]
+file = "mods/switchy-teleport.pw.toml"
+hash = "05b1526eb62c0ac11a9afce8460bf1d1e69cc83b5a171554585ec2d136f73fd3"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "4930ebd12f821d0414f3bdff610b9fa9ce431a17f70dbe30f604e67441bb03e9"
+metafile = true
+
+[[files]]
+file = "mods/switchykit.pw.toml"
+hash = "b47d282bd481c746f46e5cdb874f827343df5707c160516498e5fe483ea063f6"
+metafile = true
