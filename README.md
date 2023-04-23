@@ -4,7 +4,7 @@ For anyone who wants to try Switchy, but isn't sure how to start.
 
 Also usable as a client pack for Switchy enabled servers - You'll get the full GUI for Switchy and Fabric Tailor.
 
-If you follow this pack on modrinth, you'll get a notification whenever a Switchy-related update is available.
+If you follow this pack on modrinth, you'll get a notification whenever a Switchy-related mod updates.
 
 Contains:
 - [Switchy](https://modrinth.com/mod/switchy).
