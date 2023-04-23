@@ -4,6 +4,8 @@ For anyone who wants to try Switchy, but isn't sure how to start.
 
 Also usable as a client pack for Switchy enabled servers - You'll get the full GUI for Switchy and Fabric Tailor.
 
+If you follow this pack on modrinth, you'll get a notification whenever a Switchy-related update is available.
+
 Contains:
 - [Switchy](https://modrinth.com/mod/switchy).
 - [Styled Nicknames](https://modrinth.com/mod/styled-nicknames) and [Drogstyle](https://modrinth.com/mod/drogstyle) for nicknames.
