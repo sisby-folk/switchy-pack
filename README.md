@@ -13,7 +13,7 @@ Contains:
 - [SwitchyKit](https://modrinth.com/mod/switchykit) for PluralKit importing.
 - [Switchy Proxy](https://modrinth.com/mod/switchy-proxy) for message proxying.
 - When installed on the client, [Ears](https://modrinth.com/mod/ears) to show ears skins.
-- And to have some standards - [Lithium](https://modrinth.com/mod/lithium), [Sodium](https://modrinth.com/mod/sodium), and [LazyDFU](https://modrinth.com/mod/lazydfu) for performance.
+- And to have some standards - [Lithium](https://modrinth.com/mod/lithium), [Sodium](https://modrinth.com/mod/sodium), [Starlight](https://modrinth.com/mod/starlight), and [LazyDFU](https://modrinth.com/mod/lazydfu) for performance.
 
 Does not contain mixed-side mods like [Origins](https://modrinth.com/mod/origins/versions), but you can add them yourself.<br/>
 Try [Origins Minus](https://modrinth.com/mod/origins-minus) and [Statures](https://modrinth.com/mod/tinkerers-statures) for a Switchy-tailored experience.
