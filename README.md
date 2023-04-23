@@ -2,7 +2,7 @@ A minimal modpack for [Switchy](https://modrinth.com/mod/switchy)!
 
 For anyone who wants to try Switchy, but isn't sure how to start.
 
-Also a client pack for Switchy enabled servers - You'll get the full GUI for Switchy and Fabric Tailor.
+Also usable as a client pack for Switchy enabled servers - You'll get the full GUI for Switchy and Fabric Tailor.
 
 Contains:
 - [Switchy](https://modrinth.com/mod/switchy).
