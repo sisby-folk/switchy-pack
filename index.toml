@@ -27,7 +27,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+hash = "cef6965aa001e227fce4719f6f723ed8af9a020d82195a56d06fa58a342fb73b"
 metafile = true
 
 [[files]]
