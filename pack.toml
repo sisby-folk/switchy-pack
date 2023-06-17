@@ -1,13 +1,13 @@
 name = "Switchy Pack"
 author = "Sisby folk"
-version = "1.1.0"
+version = "1.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "827cd0c50cdebd46d5e105b72b08126de96c7545566724c42433e6f8ba95be33"
+hash = "6e5e6d97aefd928772b293b81c4cf31b28df72b7ecbc1c7d6413b4ae15024c15"
 
 [versions]
 minecraft = "1.19.2"
-quilt = "0.18.10"
+quilt = "0.19.1"
