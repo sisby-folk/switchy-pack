@@ -7,12 +7,12 @@ metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
+hash = "0e090752a7af1569a5fe65f078e10e9b58e57002f24577cce788ecf43ebcb30f"
 metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "b3e1f7b080b5c4a2e3de434a6873d84ba5bd357dff99268d45db4a79fb6d43b9"
+hash = "1a2ba8df24ed0688cd0728004b51d7409d9afbee9c23479ea8be2fa00c9f0f56"
 metafile = true
 
 [[files]]
@@ -22,17 +22,17 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "54a337d13450b35dfc931e7a5f3ed9fca1a1992ec51d3b1e4ea1cb5f7cd2d09c"
+hash = "2dcac529633f402a5a325b8031bf15a06db668b912e6be1596836bde3afb17f1"
 metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "78fe291bc3d50234209d5b80735b469044f4d858dc8d3ba5bc38d1e098cb786f"
+hash = "24ca6901df336de9e8d866ebbbc93f5563a13d52141ce934dd6293746003ea44"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7f16d61f278eb23f2778ebc55467391d06fd76a8710d5b857efb7762734fb281"
+hash = "e4c981864080221395f462c5a2ef1ccfd38aa6b16ca10879a4b5ef4f60828a7d"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+hash = "1ab96020d0954a72b5cc150b375f57cf8968ac2c1809a000472076f8675eb9ea"
 metafile = true
 
 [[files]]
@@ -52,12 +52,12 @@ metafile = true
 
 [[files]]
 file = "mods/styled-chat.pw.toml"
-hash = "70da594f4eadb175c7eedd58ec67caeffb71ac5fc8c503fcddf04e545e78e590"
+hash = "94c1b8d7e9b3be80b6b34dd288803d7ac42f57d7b73606c093e8a87f4a6d10b9"
 metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "d0cd4b1f936b73cbe367ccc74c325688bb5aa1e87e41f571124a22c3b361c2c1"
+hash = "b36475b834f574ca8d0869aaa06078f2db34a4c78dc3cd1e816a4cac31eace02"
 metafile = true
 
 [[files]]
@@ -72,12 +72,12 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-teleport.pw.toml"
-hash = "45cfb1774eee4ece0713fa6351538bb20f6d380a8caa33cc354af825c77f2765"
+hash = "2f0bcac9bb0328136959327b2dc508890b97c93c4bc1dde042cfee882039093e"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "c4bca4c16f2081022e92eb5379505518971e55d10346789ab777b59de38bebe7"
+hash = "4bc6734faec81b67d64d1a38f4226d6b1545f269c9e9518894855c182c75a6ef"
 metafile = true
 
 [[files]]
