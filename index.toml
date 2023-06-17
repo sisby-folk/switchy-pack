@@ -26,6 +26,11 @@ hash = "be8427f766253fce639d6e3e351b726a9b98e6ebc3ed4bec2023ea352bda0ae8"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "cef6965aa001e227fce4719f6f723ed8af9a020d82195a56d06fa58a342fb73b"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "977fa64f69701ba5617640bf048abc10257ed00ddba615ceca1b52e65e118c2f"
 metafile = true
