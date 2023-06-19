@@ -1,4 +1,4 @@
-name = "Switchy Pack 1.20"
+name = "Switchy Pack 1.19.4"
 author = "Sisby folk"
 version = "1.1.3"
 pack-format = "packwiz:1.1.0"
@@ -6,8 +6,8 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b7f2468dfba91160e90e7ad508d9059d6e561112aa4a1ed5d42620d50656664c"
+hash = "314bad73ab31981cbbebf682693add5736b36bdc7242e9c8f3eb0166dcb34bcd"
 
 [versions]
-minecraft = "1.20.1"
+minecraft = "1.19.4"
 quilt = "0.19.1"
