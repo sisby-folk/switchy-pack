@@ -13,7 +13,7 @@ Contains:
 - [Switchy Inventories](https://modrinth.com/mod/switchy-inventories) for optional inventory swapping.
 - [Switchy Teleport](https://modrinth.com/mod/switchy-teleport) for optional position swapping.
 - [SwitchyKit](https://modrinth.com/mod/switchykit) for PluralKit importing.
-- [Switchy Proxy](https://modrinth.com/mod/switchy-proxy) for message proxying.
+- (Quilt >1.19) [Switchy Proxy](https://modrinth.com/mod/switchy-proxy) for message proxying.
 - When installed on the client, [Ears](https://modrinth.com/mod/ears) to show ears skins.
 - And to have some standards - [Lithium](https://modrinth.com/mod/lithium), [Sodium](https://modrinth.com/mod/sodium), [Starlight](https://modrinth.com/mod/starlight), and [LazyDFU](https://modrinth.com/mod/lazydfu) for performance.
 
