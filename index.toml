@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "mods/drogstyle.pw.toml"
-hash = "4dfeb4a7f9ba351ce1cac51a97693b317ce26f0dcf9ba89e9f2ed96cd5472f57"
+hash = "be9496839cf871d08184d6620bd3c031a0894d1ecc7d51ff9863792a3ee8db33"
 metafile = true
 
 [[files]]
@@ -32,12 +32,12 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "8cacfddf1fba2b0254a13cd0c10c3ea06ca8bede720d728b1369f47bd91f7589"
+hash = "3389855d5d13ca56a8d873065d9511f06ef6461ca0f857434b00ecefe9a2419f"
 metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "c48006ba1c8c4ab44d43ace55bac28c14a237f48016d990b4c2057255a60477a"
+hash = "405de59ee1b659cce44f57af5e836307d2f6b29d6597baefbf3d95e77c582d9e"
 metafile = true
 
 [[files]]
@@ -62,22 +62,22 @@ metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "618e124f8a7a25ea380deb3d13e677ca816d8bc066553d50bbaef9c47a289da6"
+hash = "b7b3080acea13424a7f6301ec97b61eb6fb8b541abc0b43864da3768059e6e86"
 metafile = true
 
 [[files]]
 file = "mods/switchy-proxy.pw.toml"
-hash = "23c3b3bdefb7f01accdee0119b7dbcdde380bb1171d51d91d6df34458ab5c745"
+hash = "e278e770f2cee634134dbc3b56ac9fdeb99285ddf3dd17e2eadd08e44c99d412"
 metafile = true
 
 [[files]]
 file = "mods/switchy-teleport.pw.toml"
-hash = "0f610faaec89b1a477ba8f6a87d0df80f37660d922bedabe00d3d0548312802a"
+hash = "65e5def6b9d5da647cae453dd0e69b28f98ccab1a23dfeac3314345e295b66d6"
 metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "6f074bdee7fc0d1a6d3294b95d89835094d82f2c7c9858e919e3455e0b855a26"
+hash = "6e659442a6741f9d25fd0440826482fe85be203d50dd3df2616f2b7297d96761"
 metafile = true
 
 [[files]]
