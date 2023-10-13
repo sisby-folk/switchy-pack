@@ -1,18 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "a7e83dc72da60784723493d0e0fcddb01ba302710b7b1b24f1c8bfdaa2eb2266"
+metafile = true
+
+[[files]]
 file = "mods/drogstyle.pw.toml"
 hash = "3cb69f9380e633b3187fef3c0855ffc8f8bee0477626d37329ba8a90c8c20ec9"
 metafile = true
 
 [[files]]
 file = "mods/ears.pw.toml"
-hash = "6a4afd7b42387477795e73b17b8963ea313ce6f8a960343a2579ff0b41544beb"
+hash = "33b44f9dd0b1fef2c70b7dfa2579762051df57b13c78535be927a40dd4cf98a6"
 metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "e0a446366759a2c5e22163c45e15a4c959b3b1c297f1c099ffe5d2519bcc595e"
 metafile = true
 
 [[files]]
@@ -23,31 +33,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
-metafile = true
-
-[[files]]
-file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
-metafile = true
-
-[[files]]
-file = "mods/qsl.pw.toml"
-hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
-metafile = true
-
-[[files]]
-file = "mods/reeses-sodium-options.pw.toml"
-hash = "44b0a2294e1693230308e53b529d671a0303e94b623ba2c2650cdf5760a5a335"
-metafile = true
-
-[[files]]
-file = "mods/sodium.pw.toml"
-hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
-metafile = true
-
-[[files]]
-file = "mods/starlight.pw.toml"
-hash = "218f67d6bcaae849582618cd3e5eb1d4cac0fd6045115f64340620300e160c11"
 metafile = true
 
 [[files]]
@@ -78,9 +63,4 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "27f5efe6758f32ccdac8f19bab0708f91125c9ec3f55d2092ab79ee1f2d90513"
-metafile = true
-
-[[files]]
-file = "mods/switchykit.pw.toml"
-hash = "899a8fd91b062153a42a7a37a86e48bc455c28b926f2a0bef6a5c6b4313091ef"
 metafile = true
